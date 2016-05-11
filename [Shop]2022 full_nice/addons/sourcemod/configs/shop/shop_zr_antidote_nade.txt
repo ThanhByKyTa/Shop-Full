@@ -1,0 +1,34 @@
+﻿"Phrases"
+{
+	"Category"
+	{
+		"en"			"Zombie:Reloaded"
+		"ru"			"Zombie:Reloaded"
+	}
+	"Antidote nade"
+	{
+		"en"			"Anti-Dote nade"
+		"ru"			"Anti- Dote nade"
+	}
+	"Must be human"
+	{
+		"en"			"{green}[ZR] {default}You must be a human!"
+		"ru"			"{green}[ZR] {default}Voce deve ser um ser humano!"
+	}
+	"Bought"
+	{
+		"en"			"{green}[ZR] {default}You have successfully bought an anti-dote nade!"
+		"ru"			"{green}[ZR] {default}Voce comprou com sucesso um nade anti -dote!"
+	}
+	"Is mother zombie"
+	{
+        "#format"       "{1:N}"
+		"en"			"{green}[ZR] {1} {default}is mother zombie!"
+		"ru"			"{green}[ZR] {1} {default}é a mãe zombie!"
+	}
+	"Returned back to human by"
+	{
+		"en"			"{green}[ZR] {default}You have been returned back to humans by an anti-dote nade!"
+		"ru"			"{green}[ZR] {default}Você foi devolvido para os seres humanos por um nade anti -dote!"
+	}
+}

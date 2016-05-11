@@ -1,0 +1,776 @@
+"Equipments"
+{ 
+	"glasses"
+	{
+		"en"	"Glasses"
+		"ru"	"acessorios"
+		
+		"3d"
+		{
+			"name"	"Oculos 3D"
+			"price" 		"7000"  
+			"sell_price" 		"3500"
+			"duration"			"604800"
+			"model"			"models/gmod_tower/3dglasses.mdl"
+			
+			"attachment"		"facemask"
+			
+			"position"		"0.0 0.5 2.0"
+			"angles"		"0.0 0.0 0.0"
+			
+			"classes"
+			{
+				"models\player\techknow\left4dead\zoey.mdl"
+				{
+					"attachment"		"facemask"
+					
+					"position"		"0.0 -1.5 2.0"
+					"angles"		"0.0 0.0 0.0"
+				}
+
+				"models\player\techknow\left4dead\louis.mdl"
+				{
+					"attachment"		"facemask"
+					
+					"position"		"0.0 -1.0 4.0"
+					"angles"		"0.0 0.0 0.0"
+				}
+				
+				"models\player\techknow\left4dead\francis.mdl"
+				{
+					"attachment"		"facemask"
+					
+					"position"		"0.0 -0.5 2.0"
+					"angles"		"0.0 0.0 0.0"				
+				}								
+			}			
+		}
+		
+		"kleiner"
+		{
+			"name"	"kleiner"
+			"price" 		"7000"  
+			"sell_price" 		"3500"
+			"duration"			"604800"
+			"model"			"models/gmod_tower/klienerglasses.mdl"
+			
+			"attachment"		"facemask"
+			
+			"position"		"0.0 0.5 2.0"
+			"angles"		"0.0 0.0 0.0"	
+			
+			"classes"
+			{
+				"models\player\techknow\left4dead\zoey.mdl"
+				{
+					"attachment"		"facemask"
+					
+					"position"		"0.0 -2.0 2.0"
+					"angles"		"0.0 0.0 0.0"	
+				}
+				
+				"models\player\techknow\left4dead\louis.mdl"
+				{
+					"attachment"		"facemask"
+					
+					"position"		"0.0 -1.0 4.5"
+					"angles"		"0.0 0.0 0.0"
+				}
+
+				"models\player\techknow\left4dead\francis.mdl"
+				{
+					"attachment"		"facemask"
+					
+					"position"		"0.0 -1.0 2.0"
+					"angles"		"0.0 0.0 0.0"	
+				}
+
+				"models\player\slow\aot\murray\slow.mdl"
+				{
+					"attachment"		"facemask"
+					
+					"position"		"0.0 -2.0 3.5"
+					"angles"		"0.0 0.0 0.0"					
+				}			
+			}			
+		}
+		
+		"aviators"
+		{
+			"name"	"aviators"
+			"price" 		"7000"  
+			"sell_price" 		"3500"
+			"duration"			"604800"
+			"model"			"models/gmod_tower/aviators.mdl"
+			
+			"attachment"		"facemask"
+			
+			"position"		"0.0 0.5 2.0"
+			"angles"		"0.0 0.0 0.0"	
+			
+			"classes"
+			{
+				"models\player\techknow\left4dead\zoey.mdl"
+				{
+					"attachment"		"facemask"
+					
+					"position"		"0.0 -2.0 2.0"
+					"angles"		"0.0 0.0 0.0"	
+				}
+				
+				"models\player\techknow\left4dead\louis.mdl"
+				{
+					"attachment"		"facemask"
+					
+					"position"		"0.0 -1.0 4.5"
+					"angles"		"0.0 0.0 0.0"
+				}
+
+				"models\player\techknow\left4dead\francis.mdl"
+				{
+					"attachment"		"facemask"
+					
+					"position"		"0.0 -1.0 2.0"
+					"angles"		"0.0 0.0 0.0"	
+				}
+
+				"models\player\slow\aot\murray\slow.mdl"
+				{
+					"attachment"		"facemask"
+					
+					"position"		"0.0 -2.0 3.5"
+					"angles"		"0.0 0.0 0.0"					
+				}			
+			}			
+		}
+	}
+	"masks"
+	{
+		"en"	"Masks"
+		"ru"	"Masks"
+		"evil_clown" 
+        { 
+            "name"    "evil_clown" 
+            "price"         "4000"   
+            "sell_price"         "1500" 
+            "duration"            "604800" 
+            "model"            "models/player/holiday/facemasks/evil_clown.mdl" 
+            "attachment"        "facemask" 
+            "alt_attachment"    "" 
+             
+            "position"        "0.0 0.5 0.0" 
+            "angles"        "0.0 0.0 0.0" 
+        } 
+        "facemask_anaglyph" 
+        { 
+            "name"    "3D facemask" 
+            "price"         "1000"   
+            "sell_price"         "550" 
+            "duration"            "604800" 
+            "model"            "models/player/holiday/facemasks/facemask_anaglyph.mdl" 
+            "attachment"        "facemask" 
+            "alt_attachment"    "" 
+             
+            "position"        "0.0 0.5 0.0" 
+            "angles"        "0.0 0.0 0.0" 
+        } 
+        "facemask_boar" 
+        { 
+            "name"    "boar" 
+            "price"         "1500"   
+            "sell_price"         "550" 
+            "duration"            "604800" 
+            "model"            "models/player/holiday/facemasks/facemask_boar.mdl" 
+            "attachment"        "facemask" 
+            "alt_attachment"    "" 
+             
+            "position"        "0.0 0.5 0.0" 
+            "angles"        "0.0 0.0 0.0" 
+        } 
+        "facemask_bunny" 
+        { 
+            "name"    "bunny" 
+            "price"         "1600"   
+            "sell_price"         "550" 
+            "duration"            "604800" 
+            "model"            "models/player/holiday/facemasks/facemask_bunny.mdl" 
+            "attachment"        "facemask" 
+            "alt_attachment"    "" 
+             
+            "position"        "0.0 0.5 0.0" 
+            "angles"        "0.0 0.0 0.0" 
+        } 
+        "facemask_bunny_gold" 
+        { 
+            "name"    "bunny_gold" 
+            "price"         "1800"   
+            "sell_price"         "550" 
+            "duration"            "604800" 
+            "model"            "models/player/holiday/facemasks/facemask_bunny_gold.mdl" 
+            "attachment"        "facemask" 
+            "alt_attachment"    "" 
+             
+            "position"        "0.0 0.5 0.0" 
+            "angles"        "0.0 0.0 0.0" 
+        } 
+        "facemask_chains" 
+        { 
+            "name"    "chains" 
+            "price"         "3000"   
+            "sell_price"         "1000" 
+            "duration"            "604800" 
+            "model"            "models/player/holiday/facemasks/facemask_chains.mdl" 
+            "attachment"        "facemask" 
+            "alt_attachment"    "" 
+             
+            "position"        "0.0 0.5 0.0" 
+            "angles"        "0.0 0.0 0.0" 
+        } 
+        "facemask_dallas" 
+        { 
+            "name"    "dallas" 
+            "price"         "5000"   
+            "sell_price"         "2000" 
+            "duration"            "604800" 
+            "model"            "models/player/holiday/facemasks/facemask_dallas.mdl" 
+            "attachment"        "facemask" 
+            "alt_attachment"    "" 
+             
+            "position"        "0.0 0.5 0.0" 
+            "angles"        "0.0 0.0 0.0" 
+        } 
+        "facemask_devil_plastic" 
+        { 
+            "name"    "devil_plastic" 
+            "price"         "4000"   
+            "sell_price"         "1500" 
+            "duration"            "604800" 
+            "model"            "models/player/holiday/facemasks/facemask_devil_plastic.mdl" 
+            "attachment"        "facemask" 
+            "alt_attachment"    "" 
+             
+            "position"        "0.0 0.5 0.0" 
+            "angles"        "0.0 0.0 0.0" 
+        } 
+        "facemask_hoxton" 
+        { 
+            "name"    "hoxton" 
+            "price"         "3500"   
+            "sell_price"         "1500" 
+            "duration"            "604800" 
+            "model"            "models/player/holiday/facemasks/facemask_hoxton.mdl" 
+            "attachment"        "facemask" 
+            "alt_attachment"    "" 
+             
+            "position"        "0.0 0.5 0.0" 
+            "angles"        "0.0 0.0 0.0" 
+        } 
+        "facemask_porcelain_doll_kabuki" 
+        { 
+            "name"    "porcelain_doll_kabuki" 
+            "price"         "2500"   
+            "sell_price"         "1000" 
+            "duration"            "604800" 
+            "model"            "models/player/holiday/facemasks/facemask_porcelain_doll_kabuki.mdl" 
+            "attachment"        "facemask" 
+            "alt_attachment"    "" 
+             
+            "position"        "0.0 0.5 0.0" 
+            "angles"        "0.0 0.0 0.0" 
+        } 
+        "facemask_pumpkin" 
+        { 
+            "name"    "pumpkin" 
+            "price"         "2000"   
+            "sell_price"         "500" 
+            "duration"            "604800" 
+            "model"            "models/player/holiday/facemasks/facemask_pumpkin.mdl" 
+            "attachment"        "facemask" 
+            "alt_attachment"    "" 
+             
+            "position"        "0.0 0.5 0.0" 
+            "angles"        "0.0 0.0 0.0" 
+        } 
+        "facemask_sheep_bloody" 
+        { 
+            "name"    "sheep_bloody" 
+            "price"         "1200"   
+            "sell_price"         "550" 
+            "duration"            "604800" 
+            "model"            "models/player/holiday/facemasks/facemask_sheep_bloody.mdl" 
+            "attachment"        "facemask" 
+            "alt_attachment"    "" 
+             
+            "position"        "0.0 0.5 0.0" 
+            "angles"        "0.0 0.0 0.0" 
+        } 
+        "facemask_sheep_gold" 
+        { 
+            "name"    "sheep_gold" 
+            "price"         "1000"   
+            "sell_price"         "450" 
+            "duration"            "604800" 
+            "model"            "models/player/holiday/facemasks/facemask_sheep_gold.mdl" 
+            "attachment"        "facemask" 
+            "alt_attachment"    "" 
+             
+            "position"        "0.0 0.5 0.0" 
+            "angles"        "0.0 0.0 0.0" 
+        } 
+        "facemask_sheep_model" 
+        { 
+            "name"    "sheep_model" 
+            "price"         "500"   
+            "sell_price"         "250" 
+            "duration"            "604800" 
+            "model"            "models/player/holiday/facemasks/facemask_sheep_model.mdl" 
+            "attachment"        "facemask" 
+            "alt_attachment"    "" 
+             
+            "position"        "0.0 0.5 0.0" 
+            "angles"        "0.0 0.0 0.0" 
+        } 
+        "facemask_skull" 
+        { 
+            "name"    "skull" 
+            "price"         "4000"   
+            "sell_price"         "1500" 
+            "duration"            "604800" 
+            "model"            "models/player/holiday/facemasks/facemask_skull.mdl" 
+            "attachment"        "facemask" 
+            "alt_attachment"    "" 
+             
+            "position"        "0.0 0.5 0.0" 
+            "angles"        "0.0 0.0 0.0" 
+        } 
+        "facemask_skull_gold" 
+        { 
+            "name"    "skull_gold" 
+            "price"         "5000"   
+            "sell_price"         "2000" 
+            "duration"            "604800" 
+            "model"            "models/player/holiday/facemasks/facemask_skull_gold.mdl" 
+            "attachment"        "facemask" 
+            "alt_attachment"    "" 
+             
+            "position"        "0.0 0.5 0.0" 
+            "angles"        "0.0 0.0 0.0" 
+        } 
+        "facemask_tiki" 
+        { 
+            "name"    "tiki" 
+            "price"         "1500"   
+            "sell_price"         "500" 
+            "duration"            "604800" 
+            "model"            "models/player/holiday/facemasks/facemask_tiki.mdl" 
+            "attachment"        "facemask" 
+            "alt_attachment"    "" 
+             
+            "position"        "0.0 0.5 0.0" 
+            "angles"        "0.0 0.0 0.0" 
+        } 
+        "facemask_wolf" 
+        { 
+            "name"    "wolf" 
+            "price"         "3000"   
+            "sell_price"         "1000" 
+            "duration"            "604800" 
+            "model"            "models/player/holiday/facemasks/facemask_wolf.mdl" 
+            "attachment"        "facemask" 
+            "alt_attachment"    "" 
+             
+            "position"        "0.0 0.5 0.0" 
+            "angles"        "0.0 0.0 0.0" 
+        } 
+        "facemask_zombie_fortune_plastic" 
+        { 
+            "name"    "fortune_plastic" 
+            "price"         "3000"   
+            "sell_price"         "1000" 
+            "duration"            "604800" 
+            "model"            "models/player/holiday/facemasks/facemask_zombie_fortune_plastic.mdl" 
+            "attachment"        "facemask" 
+            "alt_attachment"    "" 
+             
+            "position"        "0.0 0.5 0.0" 
+            "angles"        "0.0 0.0 0.0" 
+        } 
+        "porcelain_doll" 
+        { 
+            "name"    "porcelain_doll" 
+            "price"         "2500"   
+            "sell_price"         "500" 
+            "duration"            "604800" 
+            "model"            "models/player/holiday/facemasks/porcelain_doll.mdl" 
+            "attachment"        "facemask" 
+            "alt_attachment"    "" 
+             
+            "position"        "0.0 0.5 0.0" 
+            "angles"        "0.0 0.0 0.0" 
+        }
+		"majora"
+		{
+			"name"	"majora"
+			"price" 		"7000"  
+			"sell_price" 		"3500"
+			"duration"			"604800"
+			"model"			"models/gmod_tower/majorasmask.mdl"
+			
+			"attachment"		"facemask"
+			"alt_attachment"	""
+			
+			"position"		"0.0 0.5 0.0"
+			"angles"		"0.0 0.0 0.0"
+		}
+
+		"andros"
+		{
+			"name"	"andros"
+			"price" 		"7000"  
+			"sell_price" 		"3500"
+			"duration"			"604800"
+			"model"		"models/gmod_tower/androssmask.mdl"
+			
+			"attachment"		"facemask"
+			"alt_attachment"	""
+			
+			"position"	"0.0 2.0 0.0"
+			"angles"	"0.0 0.0 0.0"
+		}
+
+		"toro"
+		{
+			"name"	"toro"
+			"price" 		"7000"  
+			"sell_price" 		"3500"
+			"duration"			"604800"
+			"model"		"models/gmod_tower/toromask.mdl"
+			
+			"attachment"		"facemask"
+			"alt_attachment"	""
+			
+			"position"	"0.0 -1.0 4.0"
+			"angles"	"0.0 0.0 0.0"
+		}
+	}
+	"hats"
+	{
+		"en"	"Hats"
+		"ru"	"hats"
+		
+		"santa"
+		{
+			"name"	"santa"
+			"price" 		"7000"  
+			"sell_price" 		"3500"
+			"duration"			"604800"
+			"model"			"models/gmod_tower/santahat.mdl"
+			
+			"attachment"		"facemask"
+			"alt_attachment"	"primary"
+			
+			"position"		"0.0 -1.0 6.0"
+			"angles"		"0.0 0.0 0.0"
+		}
+			
+		"watermelon"
+		{
+			"name"	"watermelon"
+			"price" 		"7000"  
+			"sell_price" 		"3500"
+			"duration"			"604800"
+			"model"			"models/props_junk/watermelon01.mdl"
+			
+			"attachment"		"facemask"
+			"alt_attachment"	"primary"
+			
+			"position"		"0.0 0.0 5.0"
+			"angles"		"0.0 0.0 0.0"		
+		}
+		
+		"traffic_cone"
+		{
+			"name"	"traffic_cone"
+			"price" 		"7000"  
+			"sell_price" 		"3500"
+			"duration"			"604800"
+			"model"			"models/props_junk/trafficcone001a.mdl"
+			
+			"attachment"		"facemask"
+			"alt_attachment"	"primary"
+			
+			"position"		"0.0 -1.0 20.0"
+			"angles"		"0.0 0.0 0.0"
+		}
+
+		"sombrero"
+		{
+			"name"	"sombrero"
+			"price" 		"7000"  
+			"sell_price" 		"3500"
+			"duration"			"604800"
+			"model"			"models/gmod_tower/sombrero.mdl"
+			
+			"attachment"		"facemask"
+			"alt_attachment"	"primary"
+			
+			"position"		"0.0 -1.0 6.0"
+			"angles"		"0.0 0.0 0.0"
+		}
+		
+		"fancy_fedora"
+		{
+			"name"	"fancy_fedora"
+			"price" 		"7000"  
+			"sell_price" 		"3500"
+			"duration"			"604800"
+			"model"			"models/gmod_tower/fedorahat.mdl"
+			
+			"attachment"		"facemask"
+			"alt_attachment"	"primary"
+			
+			"position"		"0.0 -1.5 8.5"
+			"angles"		"0.0 0.0 0.0"
+		}
+		
+		"cake"
+		{
+			"name"	"cake"
+			"price" 		"7000"  
+			"sell_price" 		"3500"
+			"duration"			"604800"
+			"model"			"models/cakehat/cakehat.mdl"
+			
+			"attachment"		"facemask"
+			"alt_attachment"	"primary"
+			
+			"position"		"0.0 -1.0 3.0"
+			"angles"		"0.0 0.0 0.0"
+		}
+		
+		"cat_ears"
+		{
+			"name"	"cat_ears"
+			"price" 		"7000"  
+			"sell_price" 		"3500"
+			"duration"			"604800"
+			"model"			"models/gmod_tower/catears.mdl"
+			
+			"attachment"		"facemask"
+			"alt_attachment"	"primary"
+			
+			"position"		"0.0 -3.0 6.0"
+			"angles"		"0.0 0.0 0.0"
+		}
+		
+		"аfro"
+		{
+			"name"	"аfro"
+			"price" 		"7000"  
+			"sell_price" 		"3500"
+			"duration"			"604800"
+			"model"			"models/gmod_tower/afro.mdl"
+			
+			"attachment"		"facemask"
+			"alt_attachment"	"primary"
+			
+			"position"		"0.0 -3.0 6.0"
+			"angles"		"0.0 0.0 0.0"
+		}
+		
+		"link"
+		{
+			"name"	"link"
+			"price" 		"7000"  
+			"sell_price" 		"3500"
+			"duration"			"604800"
+			"model"			"models/gmod_tower/linkhat.mdl"
+			
+			"attachment"		"facemask"
+			"alt_attachment"	"primary"
+			
+			"position"		"0.0 -5.0 4.0"
+			"angles"		"0.0 0.0 0.0"
+		}
+		
+		"party"
+		{
+			"name"	"party"
+			"price" 		"7000"  
+			"sell_price" 		"3500"
+			"duration"			"604800"
+			"model"			"models/gmod_tower/partyhat.mdl"
+			
+			"attachment"		"facemask"
+			"alt_attachment"	"primary"
+			
+			"position"		"1.0 -1.0 7.0"
+			"angles"		"0.0 0.0 0.0"
+		}
+
+		"antlers"
+		{
+			"name"	"antlers"
+			"price" 		"7000"  
+			"sell_price" 		"3500"
+			"duration"			"604800"
+			"model"		"models/sam/antlers.mdl"
+			
+			"attachment"		"facemask"
+			"alt_attachment"	"primary"
+			
+			"position"	"0.0 0.0 2.0"
+			"angles"	"0.0 0.0 0.0"
+		}
+		
+		"baseball_cap"
+		{
+			"name"	"baseball_cap"
+			"price" 		"7000"  
+			"sell_price" 		"3500"
+			"duration"			"604800"
+			"model"		"models/props/cs_office/snowman_hat.mdl"
+			
+			"attachment"		"facemask"
+			"alt_attachment"	"primary"
+			
+			"position"	"0.0 0.0 7.0"
+			"angles"	"0.0 -90.0 0.0"
+		}
+		
+		"coffee_mug"
+		{
+			"name"	"coffee_mug"
+			"price" 		"7000"  
+			"sell_price" 		"3500"
+			"duration"			"604800"
+			"model"		"models/props/cs_office/coffee_mug.mdl"
+			
+			"attachment"		"facemask"
+			"alt_attachment"	"primary"
+			
+			"position"	"0.0 0.0 9.0"
+			"angles"	"0.0 0.0 0.0"
+		}
+		
+		"viking_helmet"
+		{
+			"name"	"viking_helmet"
+			"price" 		"7000"  
+			"sell_price" 		"3500"
+			"duration"			"604800"
+			"model"		"models/vikinghelmet/vikinghelmet.mdl"
+			
+			"attachment"		"facemask"
+			"alt_attachment"	"primary"
+			
+			"position"	"0.0 -1.0 6.0"
+			"angles"	"0.0 0.0 0.0"
+		}	
+		
+		"kfc_bucket"
+		{
+			"name"	"Balde KFC"
+			"price" 		"7000"  
+			"sell_price" 		"3500"
+			"duration"			"604800"
+			"model"		"models/gmod_tower/kfcbucket.mdl"
+			
+			"attachment"		"facemask"
+			"alt_attachment"	"primary"
+			
+			"position"	"0.0 -1.0 3.0"
+			"angles"	"0.0 0.0 0.0"
+		}
+
+		"dunce"
+		{
+			"name"	"dunce"
+			"price" 		"7000"  
+			"sell_price" 		"3500"
+			"duration"			"604800"
+			"model"		"models/duncehat/duncehat.mdl"
+			
+			"attachment"		"facemask"
+			"alt_attachment"	"primary"
+			
+			"position"	"0.0 -1.0 6.0"
+			"angles"	"0.0 0.0 0.0"
+		}
+		
+		"drink_cap"
+		{
+			"name"	"drink_cap"
+			"price" 		"7000"  
+			"sell_price" 		"3500"
+			"duration"			"604800"
+			"model"		"models/gmod_tower/drinkcap.mdl"
+			
+			"attachment"		"facemask"
+			"alt_attachment"	"primary"
+			
+			"position"	"0.0 -1.0 7.0"
+			"angles"	"0.0 0.0 0.0"
+		}
+		
+		"top_hat"
+		{
+			"name"	"top_hat"
+			"price" 		"7000"  
+			"sell_price" 		"3500"
+			"duration"			"604800"
+			"model"		"models/gmod_tower/tophat.mdl"
+			
+			"attachment"		"facemask"
+			"alt_attachment"	"primary"
+			
+			"position"	"0.0 -1.7 4.5"
+			"angles"	"0.0 0.0 0.0"
+		}
+		
+		"toeto"
+		{
+			"name"	"toeto"
+			"price" 		"7000"  
+			"sell_price" 		"3500"
+			"duration"			"604800"
+			"model"		"models/gmod_tower/toetohat.mdl"
+			
+			"attachment"		"facemask"
+			"alt_attachment"	"primary"
+			
+			"position"	"0.0 -1.0 6.0"
+			"angles"	"0.0 0.0 0.0"
+		}
+		
+		"seuss"
+		{
+			"name"	"seuss"
+			"price" 		"7000"  
+			"sell_price" 		"3500"
+			"duration"			"604800"
+			"model"		"models/gmod_tower/seusshat.mdl"
+			
+			"attachment"		"facemask"
+			"alt_attachment"	"primary"
+			
+			"position"	"0.0 -1.0 6.0"
+			"angles"	"0.0 0.0 0.0"
+		}		
+
+		"midna"
+		{
+			"name"	"midna"
+			"price" 		"7000"  
+			"sell_price" 		"3500"
+			"duration"			"604800"
+			"model"		"models/gmod_tower/midnahat.mdl"
+			
+			"attachment"		"facemask"
+			"alt_attachment"	"primary"
+			
+			"position"	"0.0 0.0 0.0"
+			"angles"	"0.0 0.0 0.0"
+		}	
+	}
+}

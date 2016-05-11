@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/csctm/bandit/csctm_bandit_01"
+	"$bumpmap" "models/player/csctm/bandit/csctm_bandit_01_normal"
+	"$model" "1"
+	"$rimlight" "1"									
+	"$rimlightexponent" "5"								
+	"$rimlightboost" "0.8"
+}
