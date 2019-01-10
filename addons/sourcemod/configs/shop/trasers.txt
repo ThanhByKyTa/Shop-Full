@@ -1,7 +1,7 @@
 "Tracers"
 {
 	"name"			"Tracers"	// O nome da categoria no menu
-    //"description"	"Rastro de tiros"   // Descrição da categoria no menu defalt "Shoot beams from your weapon!"
+    //"description"	""   // Descrição da categoria no menu defalt "Shoot beams from your weapon!"
 	"material"		"materials/sprites/XBeam2.vmt" // Traçador de material ( melhor não alterar )
 	"hide_opposite_team"	"1"			// Esconder lá para os adversários dos raios (0 - No 1 - Yes)
 
